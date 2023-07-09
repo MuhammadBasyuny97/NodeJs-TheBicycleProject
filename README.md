@@ -1,5 +1,5 @@
 # NodeJs-TheBicycleShopProject
-This is Pure Node.js Project using HTML & CSS & Node.js
+This is Mini Ecommerce Bicycle Shop Project using HTML & CSS & Node.js
 
 Client and Server side rendering
 
