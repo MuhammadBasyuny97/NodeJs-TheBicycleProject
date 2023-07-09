@@ -1,2 +1,3 @@
-# NodeJs-TheBicycleProject
-This is Pure Node.js Project
+# NodeJs-TheBicycleShopProject
+This is Pure Node.js Project using HTML & CSS & Node.js
+

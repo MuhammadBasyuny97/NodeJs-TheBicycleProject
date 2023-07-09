@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "name": "thebicycleshop-start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
